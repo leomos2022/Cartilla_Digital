@@ -96,7 +96,7 @@ npx serve .
 
 El proyecto incluye integración directa con **Google Colab** para ejercicios prácticos:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YpHR9Jega61E-VN4-o2zXkvFeSyyGZMV?usp=sharing)
 
 ### Ejercicios Disponibles:
 
